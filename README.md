@@ -3,7 +3,7 @@ Repository for the EpiEstim and VaxEstim analysis of cholera in Haiti and Camero
 
 This repository contains the following items:
 
-**Appendix_1_Hulland_July27.pdf**: The most up-to-date appendix for our submission. Updated 07/27/2024.
+**Appendix1_Hulland_July27.pdf**: The most up-to-date appendix for our submission. Updated 07/27/2024.
 
 **Rt_outputs_Haiti.csv**: This spreadsheet contains posterior distribution of the R(t) values over time in Haiti.
 
